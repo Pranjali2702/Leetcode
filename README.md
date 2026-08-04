@@ -25,9 +25,18 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
