@@ -6,6 +6,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -18,6 +19,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -37,6 +39,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -50,4 +53,12 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
