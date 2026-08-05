@@ -33,6 +33,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pranjali2702/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranjali2702/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -69,4 +70,12 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Pranjali2702/Leetcode/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranjali2702/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranjali2702/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
