@@ -64,6 +64,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | ------- |
 | [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranjali2702/Leetcode/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
