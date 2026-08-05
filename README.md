@@ -61,6 +61,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -78,4 +79,12 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjali2702/Leetcode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
