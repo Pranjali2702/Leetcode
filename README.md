@@ -44,6 +44,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranjali2702/Leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Pranjali2702/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Pranjali2702/Leetcode/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranjali2702/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
