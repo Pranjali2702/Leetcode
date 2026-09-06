@@ -70,6 +70,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0455-assign-cookies](https://github.com/Pranjali2702/Leetcode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Pranjali2702/Leetcode/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | ------- |
 | [0055-jump-game](https://github.com/Pranjali2702/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Pranjali2702/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Pranjali2702/Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
