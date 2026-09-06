@@ -65,6 +65,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | ------- |
 | [0001-two-sum](https://github.com/Pranjali2702/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Pranjali2702/Leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -110,4 +111,12 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Pranjali2702/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Pranjali2702/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
