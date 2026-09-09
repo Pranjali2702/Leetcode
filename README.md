@@ -11,6 +11,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | [0257-binary-tree-paths](https://github.com/Pranjali2702/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | [0257-binary-tree-paths](https://github.com/Pranjali2702/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | [0257-binary-tree-paths](https://github.com/Pranjali2702/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Pranjali2702/Leetcode/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Pranjali2702/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
