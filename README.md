@@ -74,6 +74,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 | [0048-rotate-image](https://github.com/Pranjali2702/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Pranjali2702/Leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranjali2702/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0162-find-peak-element](https://github.com/Pranjali2702/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjali2702/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Pranjali2702/Leetcode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
@@ -124,6 +125,7 @@ A curated collection of my LeetCode solutions in C++, organized by topic with cl
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Pranjali2702/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjali2702/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Pranjali2702/Leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
